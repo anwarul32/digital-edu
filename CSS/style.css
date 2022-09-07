@@ -1,9 +1,9 @@
 .btn-color{
     background-color: #289BDE;
 }
+.btn:hover{
+    background-color: #289BDE;
+}
 .text-color{
     color: #289BDE;
-}
-.col-width{
-    width: 645px;
 }
