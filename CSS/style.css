@@ -4,6 +4,9 @@
 .btn:hover{
     background-color: #289BDE;
 }
+.bg-color{
+    background-color: #F4FAFD;
+}
 .text-color{
     color: #289BDE;
 }
